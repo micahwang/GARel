@@ -1,5 +1,5 @@
 # GARel: Genetic Algorithm based Receptor-ligand interaction generator
-# Boosts the drug-like features and novelty of the molecules in sampling chemical space
+## Boosts the drug-like features and novelty of the molecules in sampling chemical space
 
 ![overview of the architecture of GARel](/image/figure.png)
 ## Overview
