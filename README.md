@@ -1,7 +1,7 @@
 # GARel: Genetic Algorithm based Receptor-ligand interaction generator
 # Boosts the drug-like features and novelty of the molecules in sampling chemical space
 
-![overview of the architecture of GARel](/image/figure)
+![overview of the architecture of GARel](/image/figure.png)
 ## Overview
 This repository contains the source of GARel, a software for DL-based de novo drug design.
 
