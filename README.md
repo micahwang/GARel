@@ -22,8 +22,6 @@ if utilizing GPU accelerated model training
 
 ## Running GARel
 
-### Prepare molecular dataset
-
 
 
 ### Pretrain Generator
