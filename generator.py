@@ -83,6 +83,7 @@ class Block_Pool(nn.Module):
 
 
 class generator(nn.Module):
+    #RELATION generator
     def __init__(self,in_channel_0, out_channel_0,in_channel_1,out_channel_1,in_channel_2,out_channel_2,
                  in_channel_3,out_channel_3):
         super(generator).__init__()
